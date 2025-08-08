@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Karma Namgyal
 
-<!--
-**karnamgyal/karnamgyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ninja GIF](https://www.icegif.com/wp-content/uploads/2023/07/icegif-38.gif)
 
-Here are some ideas to get you started:
+## About Me
+- I'm a second-year Computer Engineering student @ University of Toronto!  
+- Very passionate about Machine Learning and Software Development!
+- I enjoy playing competitive Ultimate Frisbee with both club and university!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working on 
+
+
+
+## Connect 
