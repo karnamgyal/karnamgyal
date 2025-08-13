@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/b29IZK1dP4aWs/giphy.gif" alt="Ninja GIF" width="1000"/>
-</p>
-
 <h1 align="center">Hi, I'm Karma Namgyal 👋</h1>
 
 ## About Me
