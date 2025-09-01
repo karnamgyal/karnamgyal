@@ -5,7 +5,7 @@
 - I'm a second-year Computer Engineering student @ University of Toronto!  
 - I enjoy playing competitive ultimate frisbee with both club and university!
 
-## What I'm Working on 
+## What I've Recently Completed 
 
 #### 🧠 [EEG Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-visualizer)
 Predicts sleep stages from time-series EEG/EOG/EMG data using a CNN-LSTM.  
