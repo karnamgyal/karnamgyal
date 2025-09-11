@@ -7,14 +7,14 @@
 
 ## What I've Recently Completed 
 
-#### 🧠 [EEG Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-visualizer)
+#### 🧠 [Full-Day Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-visualizer)
 Predicts sleep stages from time-series EEG/EOG/EMG data using a CNN-LSTM.  
 - **Tech:** PyTorch, MNE, NumPy, scikit-learn, Matplotlib, and more.
 - **Docs:** [Notion Page](https://tropical-address-50b.notion.site/Sleep-Stage-Classification-from-Full-Night-EEG-EOG-EMG-Recording-Using-CNN-LSTM-24d209af64a980bba7afccb8298b46ed)
 
 #### 📊 [NEOFFI Personality Trait Predictor](https://github.com/karnamgyal/APS360-NEOFFI-Project)
 Predicts Big Five personality traits from brain connectivity matrices using a CNN.  
-- **Tech:** PyTorch, PyTorch Geometric, NumPy, scikit-learn, Matplotlib, and more.
+- **Tech:** PyTorch, NumPy, scikit-learn, Matplotlib, and more.
 - **Docs:** [Notion Page](https://tropical-address-50b.notion.site/Personality-Trait-Regression-from-MRI-Connectivity-Matrices-Using-2D-CNN-24d209af64a98012bc7cd0c745e8c9a4)
 
 ## Connect With Me 
