@@ -20,4 +20,3 @@ Predicts Big Five personality traits from brain connectivity matrices using a CN
 ## Connect With Me 
 - [LinkedIn](https://www.linkedin.com/in/karma-namgyal/)
 - [Notion Portfolio](https://tropical-address-50b.notion.site/Karma-Namgyal-1cc209af64a9800f8660f4bbf5c5ce53)
-- [GitHub](https://github.com/KarmaNamgyal)
