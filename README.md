@@ -9,7 +9,7 @@
 
 #### 🧠 [Post-Stroke Rehabilitation Project](https://github.com/post-stroke-rehab)
 Machine Learning Developer @ UTMIST
-- Building signal processing pipelines and training deep learning models for upper-limb rehabilitation in post-stroke patients.
+- Building signal processing pipelines and deep learning models for upper-limb stroke rehabilitation.
 
 #### 📊 [ClearETF](https://github.com/karnamgyal/ClearETF)
 Personal Project
