@@ -22,6 +22,7 @@ Predicts Big Five personality traits from brain connectivity matrices derived fr
 Built a Python tool using OpenCV that converts live camera text to speech for visually impaired users.
 
 ## Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/karma-namgyal/)  
+- [LinkedIn](https://www.linkedin.com/in/karma-namgyal/)
+- [Website](https://karnamgyal.github.io/portfolio/)
 - [Notion Portfolio](https://tropical-address-50b.notion.site/Karma-Namgyal-1cc209af64a9800f8660f4bbf5c5ce53)
 - [GitHub](https://github.com/karnamgyal)
