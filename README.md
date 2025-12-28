@@ -12,7 +12,7 @@ Developing signal-processing pipelines and deep learning models (CNNs/LSTMs/GNNs
 
 ## Projects
 
-#### 🧠 [EEG Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-classifier) 
+#### 🧠 [Full-Day Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-classifier) 
 Predicts sleep stages from time-series EEG/EOG/EMG recordings using a CNN-LSTM model.
 
 #### 🧩 [NEOFFI Personality Trait Regressor](https://github.com/karnamgyal/APS360-NEOFFI-Project)
