@@ -10,6 +10,9 @@
 #### 🦾 [Post-Stroke Rehabilitation (UTMIST)](https://github.com/post-stroke-rehab)
 Developing signal-processing pipelines and deep learning models (CNNs/LSTMs/GNNs) for upper-limb and finger movement decoding from sEMG signals, integrated into a neurorehabilitation device.
 
+#### 🤖 [Transformers TS Framework](https://github.com/karnamgyal/transformers-ts)
+Building a reusable, modular self-supervised Transformer framework for time-series representation learning.
+
 ## Projects
 
 #### 🧠 [Full-Day Sleep Stage Classifier](https://github.com/karnamgyal/sleep-stage-classifier) 
