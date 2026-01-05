@@ -29,3 +29,5 @@ Built a Python tool using OpenCV that converts live camera text to speech for vi
 - [Website](https://karnamgyal.github.io/portfolio/)
 - [Notion Portfolio](https://tropical-address-50b.notion.site/Karma-Namgyal-1cc209af64a9800f8660f4bbf5c5ce53)
 - [GitHub](https://github.com/karnamgyal)
+
+![Profile Views](https://komarev.com/ghpvc/?username=karnamgyal&color=blue&style=flat)
