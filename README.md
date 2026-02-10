@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Karma Namgyal 👋</h1>
 
 ## About Me
-- I’m highly interested in machine learning and software development.  
+- I’m highly interested in both research and applied machine learning, as well as software development.  
 - Second-year Computer Engineering student @ University of Toronto.  
 - I enjoy playing competitive ultimate frisbee with both club and university.
 
 ## What I'm Working On
 
 #### 🦾 [Post-Stroke Rehabilitation (UTMIST)](https://github.com/post-stroke-rehab)
-Developing signal-processing pipelines and deep learning models (CNNs/LSTMs/GNNs) for upper-limb and finger movement decoding from sEMG signals, integrated into a neurorehabilitation device.
+Developing signal-processing pipelines and deep learning models (CNNs/LSTMs/GNNs) to interpret sEMG signals and predict motor intent.
 
 #### 🐤 [Bigger Bird (UTMIST)](Link to be added)
 Researching content-aware sparse attention mechanisms to improve the efficiency and scalability of long-context Transformer models.
