@@ -10,7 +10,7 @@
 #### 🦾 [Post-Stroke Rehabilitation (UTMIST)](https://github.com/post-stroke-rehab)
 Developing signal-processing pipelines and deep learning models (CNNs/LSTMs/GNNs) to interpret sEMG signals and predict motor intent.
 
-#### 🐤 [Bigger Bird (UTMIST)](Link to be added)
+#### 🐤 [Bigger Bird (UTMIST)](https://github.com/derkychen/utmist-bigger-bird)
 Researching content-aware sparse attention mechanisms to improve the efficiency and scalability of long-context Transformer models.
 
 ## Projects
