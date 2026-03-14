@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karma Namgyal 👋</h1>
 
 ## About Me
-- I’m highly interested in both research and applied machine learning, as well as software development.  
+- I’m highly interested in both applied machine learning, as well as software development.  
 - Second-year Computer Engineering student @ University of Toronto.  
 - I enjoy playing competitive ultimate frisbee with both club and university.
 
