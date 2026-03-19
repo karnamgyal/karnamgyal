@@ -3,7 +3,6 @@
 ## About Me
 - I really enjoy developing machine learning and software systems from end-to-end.
 - Incoming ML Researcher @ Krembil Brain Institute. 
-- ML developer on two UTMIST projects. 
 - I enjoy playing competitive ultimate frisbee with both club and university.
 
 ## Experience 
