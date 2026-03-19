@@ -17,7 +17,7 @@
 
 [NEOFFI Personality Trait Regressor](https://github.com/karnamgyal/APS360-NEOFFI-Project): deep learning pipeline to predict Big Five personality traits from resting-state fMRI data.
 
-[Verbatim (2nd @ Hack Without Borders)](https://github.com/karnamgyal/HWB_Project): a Python tool using OpenCV that converts live camera text to speech for visually impaired users.
+[Verbatim (2nd @ Hack Without Borders)](https://github.com/karnamgyal/HWB_Project): a Python tool using OpenCV that converts live camera text to speech for the visually impaired.
 
 ## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karma-namgyal/)
